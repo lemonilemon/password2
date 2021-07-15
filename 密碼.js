@@ -1,7 +1,7 @@
 function send(rep) {
-    let ans = "worldwartwo";
+    let ans = "BreakALLsodianorz";
     if(ans == rep) {
-        document.write('<a href = "https://gather.town/app/9CXQnA0r5RBpqFyI/final%20act3"> <img src = "./portal.png" loading = "eager"></a>');
+        document.write('<a href = "https://gather.town/invite?token=kj05UmXq"> <img src = "./portal.png" loading = "eager"></a>');
         alert("好像有了甚麼動靜\n下面那是傳送門嗎？");
     }
     else {
